@@ -4,7 +4,7 @@
 
 **`Software Developer(Android/Flutter)`**
 
-<a href="https://linkedin.com/in/antonyaiwin">
+<a href="https://www.linkedin.com/in/antony-aiwin/">
   <img align="left" alt="Linkedin" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg">
 </a>
 <a href="https://stackoverflow.com/users/antony-aiwin-k-x">
