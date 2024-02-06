@@ -7,7 +7,7 @@
 <a href="https://www.linkedin.com/in/antony-aiwin/">
   <img align="left" alt="Linkedin" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg">
 </a>
-<a href="https://stackoverflow.com/users/antony-aiwin-k-x">
+<a href="https://stackoverflow.com/users/11102588/antony-aiwin-k-x">
   <img align="left" alt="StackOverflow" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Stackoverflow.svg">
 </a>
 <a href="https://x.com/antonyaiwin">
